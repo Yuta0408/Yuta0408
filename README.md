@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Yuta0408
-- 👀 I’m interested in GANs.
-- 🌱 I’m currently learning Deep Learning.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 私は機械学習に興味があります。
+- 🌱 私は現在、敵対的生成ネットワーク(GANs)について研究しています。
+- 💞️ 
+- 📫 
 
 <!---
 Yuta0408/Yuta0408 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
